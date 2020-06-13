@@ -11,7 +11,7 @@ python3 fckeditor_check.py url
 ```
 # 示例
 ```
-> python fckeditor_dircheck.py https://www.xxx.com
+> python3 fckeditor_dircheck.py https://www.xxx.com
 [-] 404 https://www.xxx.com/fckeditor/editor/filemanager/browser/default/connectors/test.html
 [-] 404 https://www.xxx.com/fckeditor/editor/filemanager/upload/test.html
 [-] Connection Failed https://www.xxx.com/fckeditor/editor/filemanager/connectors/test.html
